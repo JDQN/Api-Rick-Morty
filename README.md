@@ -2,10 +2,14 @@
 
 ### Hi, Welcome Aplicacion Api-Rick-Morty 👋 💻 🤓 🖥
 
-  <a href="https://api-rick-morty-coral.vercel.app/"> 
-   Link del deploying del la Api Proyecto
-  </a>
-  
+---
+
+<h3>Link del despliege de la api</h3>
+<a href="https://api-rick-morty-coral.vercel.app/"> 
+ Link del deploying del la Api Proyecto
+</a>
+
+---
   
 <p>
   En este repositorio encontrara el codigo fuente del Portafolio
@@ -35,8 +39,7 @@
 
 <h2>💻 IMG 💻</h2>
 
-<img src="https://github.com/JDQN/PortafolioWeb/blob/main/Home.png" />
+<img src="https://github.com/JDQN/Api-Rick-Morty/blob/main/Home.png" />
 
----
-<img src="https://github.com/JDQN/PortafolioWeb/blob/main/About.png" />
+
 
